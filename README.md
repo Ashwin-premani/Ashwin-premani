@@ -3,7 +3,7 @@
 
 <div align="center">
   
-[![Profile Views](https://komarev.com/ghpvc/?username=ashwinpremani&color=blueviolet)](https://github.com/ashwinpremani)
+[![Profile Views](https://komarev.com/ghpvc/?username=Ashwin-premani&color=blueviolet)](https://github.com/Ashwin-premani)
 
 </div>
 
@@ -13,9 +13,9 @@
 
 <div align="center">
 
-[![Ashwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashwinpremani&show_icons=true&count_private=true&theme=radical)](https://github.com/ashwinpremani)
+[![Ashwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashwin-premani&show_icons=true&count_private=true&theme=radical)](https://github.com/Ashwin-premani)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinpremani&layout=compact&theme=radical&hide_border=true)](https://github.com/ashwinpremani)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-premani&layout=compact&theme=radical&hide_border=true)](https://github.com/Ashwin-premani)
 
 </div>
 

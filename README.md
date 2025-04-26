@@ -10,18 +10,6 @@
   </a>
 </p>
 
-
-<div align="center">
-
-[![Ashwin's GitHub | Stats](https://github-readme-stats.vercel.app/api?username=ashwinpremani&show_icons=true&theme=radical&hide_title=false&include_all_commits=true)](https://github.com/ashwinpremani)
-
-[![Ashwin's Streak](https://streak-stats.demolab.com/?user=ashwinpremani&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-[![Ashwin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinpremani&layout=compact&theme=radical&hide_border=true)](https://github.com/ashwinpremani)
-
-[![Ashwin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashwinpremani&theme=react-dark&hide_border=true&area=true)](https://github.com/ashwinpremani)
-
-</div>
 ---
 
 ### 🛠️ My Tech Stack
@@ -59,15 +47,17 @@
 
 [![Ashwin's Contribution](https://github-contributor-stats.vercel.app/api?username=ashwinpremani&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/ashwinpremani)
 
+[![Ashwin's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ashwinpremani&theme=dark&hide_border=true)](https://wakatime.com/@ashwinpremani)
+
 ```python
-# My Coding Journey
+# This is a static code display - shows your skills
 def my_skills():
     languages = ["Python", "JavaScript", "C++"]
     frameworks = ["TensorFlow", "React", "Pandas"]
     interests = ["ML", "AI", "Data Visualization"]
-    return f"Passionate about {', '.join(interests)}!"
+    return "Passionate about " + ", ".join(interests) + "!"
 
-print(my_skills())
+# This won't execute but displays your tech stack
 
 ### 📌 Featured Projects
 

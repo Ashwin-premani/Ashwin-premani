@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Data Scientist and Developer from Mumbai, India 🇮🇳</h3>
 
 <p align="center">
-  <a href="https://github.com/ashwinpremani">
-    <img src="https://komarev.com/ghpvc/?username=ashwinpremani&label=Profile%20views&color=0e75b6&style=flat" alt="ashwinpremani" />
+  <a href="https://github.com/Ashwin-premani">
+    <img src="https://komarev.com/ghpvc/?username=Ashwin-premani&label=Profile%20views&color=0e75b6&style=flat" alt="ashwinpremani" />
   </a>
-  <a href="https://github.com/ashwinpremani?tab=followers">
-    <img src="https://img.shields.io/github/followers/ashwinpremani?label=Followers&style=social" alt="GitHub followers" />
+  <a href="https://github.com/Ashwin-premani?tab=followers">
+    <img src="https://img.shields.io/github/followers/Ashwin-premani?label=Followers&style=social" alt="GitHub followers" />
   </a>
 </p>
 

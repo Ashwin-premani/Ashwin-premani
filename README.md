@@ -59,6 +59,12 @@
 
 ### 📊 GitHub Stats
 
+
+### 🐍 Contribution Snake
+
+![snake gif](https://github.com/Ashwin-premani/Ashwin-premani/blob/output/github-contribution-grid-snake.svg)
+
+
 <div align="center">
 
 ![Ashwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashwin-premani&show_icons=true&theme=radical&count_private=true)

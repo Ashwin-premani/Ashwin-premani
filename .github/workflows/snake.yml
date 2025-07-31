@@ -1,23 +1,24 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # every day at midnight UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Snake Animation
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: Ashwin-premani
           outputs: |
             dist/snake.svg
+          color_snake: purple
+          color_dots: "#5DD8FF, #7CFC00, #FFFF00, #FFA500, #FF4500"
 
-      - name: Push Snake Animation to the output branch
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist

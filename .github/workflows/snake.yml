@@ -15,7 +15,7 @@ jobs:
           outputs: |
             dist/snake.svg
           color_snake: purple
-          color_dots: "#5DD8FF, #7CFC00, #FFFF00, #FFA500, #FF4500"
+          color_dots: "#FFFFFF, #A0E9FF, #FFD700, #FFB6C1, #ADFF2F"
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4

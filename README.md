@@ -60,9 +60,8 @@
 ### 📊 GitHub Stats
 
 
-### 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/Ashwin-premani/Ashwin-premani/output/github-contribution-grid-snake.svg)
 
-![snake gif](https://github.com/Ashwin-premani/Ashwin-premani/blob/output/github-contribution-grid-snake.svg)
 
 
 <div align="center">

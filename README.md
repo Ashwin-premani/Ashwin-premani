@@ -44,7 +44,7 @@
 - ✈️ [Flight Fare Prediction](https://github.com/Ashwin-premani/Flight-Fare-Prediction)  
   `Regression | sklearn | Python` – Trained models to predict airline ticket prices with high accuracy
 
-- 🧬 [Unified Disease Prediction App](https://github.com/Ashwin-premani/Unified-Disease-Predictor)  
+- 🧬 [Heathpredict-AI](https://github.com/Ashwin-premani/Heathpredict-AI)  
   `ML Models | Flask | Healthcare` – Predicts diseases like heart disease, diabetes, and pneumonia
 
 - 🏠 [Real Estate Website with ML Integration](https://github.com/Ashwin-premani/Real-Estate-ML-App)  

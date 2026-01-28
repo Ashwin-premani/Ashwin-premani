@@ -46,13 +46,13 @@
 
 ### 📌 Featured Projects
 
-- 🤖 **[GMeetBot](https://github.com/Ashwin-premani/GMeetBot)** `LLMs | Python | GitHub API` – An autonomous AI agent that joins Google Meets, transcribes discussions, extracts requirements, and automatically generates/pushes code changes via Pull Requests.
+- 🤖 **[GMeetBot](https://github.com/Ashwin-premani/gmeet_bot)** `LLMs | Python | GitHub API` – An autonomous AI agent that joins Google Meets, transcribes discussions, extracts requirements, and automatically generates/pushes code changes via Pull Requests.
 
-- 🌳 **[StudyTree](https://github.com/Ashwin-premani/StudyTree)** `FastAPI | React | OpenAI` – An AI-powered e-learning ecosystem that processes video lectures to generate structured transcripts, summaries, and interactive quizzes.
+- 🌳 **[StudyTree](https://github.com/Ashwin-premani/StudyTree-lms)** `FastAPI | React | OpenAI` – An AI-powered e-learning ecosystem that processes video lectures to generate structured transcripts, summaries, and interactive quizzes.
 
-- 📈 **[HFT Arbitrage Bot](https://github.com/Ashwin-premani/HFT-Arbitrage-Bot)** `C++ | Python | Machine Learning` – A low-latency trading system designed to exploit price discrepancies across exchanges using real-time data processing.
+- 📈 **[Modular Healthcare API](https://github.com/Ashwin-premani/Heathpredict-AI)** `C++ | Python | Machine Learning` – A comprehensive medical analytics platform integrating 5+ specialized ML models (SVM, Random Forest) to predict diseases like Heart Disease and Diabetes with 90%+ accuracy. Features a standardized REST API for model serving and a React-based dashboard for patient data visualization.
 
-- 📊 **[Life Tracker](https://github.com/Ashwin-premani/Life-Tracker)** `Streamlit | Notion API | Python` – A personal analytics dashboard that visualizes daily productivity, coding metrics, and fitness data extracted from natural language logs.
+- 📊 **[Life Tracker](https://github.com/Ashwin-premani/lifeos-tracker)** `Streamlit | Notion API | Python` – A personal analytics dashboard that visualizes daily productivity, coding metrics, and fitness data extracted from natural language logs.
 
 ---
 

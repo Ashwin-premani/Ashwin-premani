@@ -65,14 +65,9 @@
 
 ---
 
-### 📊 GitHub Stats
 
 ![Snake animation](https://raw.githubusercontent.com/Ashwin-premani/Ashwin-premani/output/snake.svg)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashwin-premani&show_icons=true&theme=radical&count_private=true" alt="Ashwin's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-premani&layout=compact&theme=radical" alt="Top Langs" />
-</div>
 
 ### 📈 What's Next?
 - 📄 Publishing research on **Dynamic Blockage Prediction in 6G** using deep learning.

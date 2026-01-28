@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ashwin Premani</h1>
 
-<h3 align="center">Data Science | AI & ML Developer | Web Enthusiast | Based in Mumbai, India 🇮🇳</h3>
+<h3 align="center">AI Research & Backend Engineer | Computer Engineering @ TSEC | Based in Mumbai, India 🇮🇳</h3>
+
+<p align="center">
+  <a href="https://ashwinpremani.com"><b>🌐 Portfolio Website</b></a> • 
+  <a href="https://linkedin.com/in/ashwinpremani"><b>LinkedIn</b></a> •
+  <a href="mailto:ashwinpremani1@gmail.com"><b>Email</b></a>
+</p>
 
 <p align="center">
   <a href="https://github.com/Ashwin-premani">
@@ -12,94 +18,62 @@
 
 ### 🧠 About Me
 
-- 🎓 Final Year B.E. Computer Engineering Student  
-- 🔍 Passionate about building AI-powered systems that create real-world impact  
-- 🚀 Currently exploring **Deep Learning**, **Cloud ML deployment**, and **Full-stack ML apps**
-- 🧠 Believe in learning by doing: multiple projects + research + open source
-- ✨ Looking for full-time roles and internship opportunities in Data Science / ML / AI
+- 🎓 **Final Year B.E. Computer Engineering** at Thadomal Shahani Engineering College.
+- 🔬 **Research Assistant** at Lassonde School of Engineering, York University (6G Network Prediction using ViTs & GRUs).
+- 🚀 Specialized in **LLM Orchestration**, **Backend Scalability**, and **Quantitative Finance Systems**.
+- 🛠️ Currently building autonomous AI agents and high-performance trading bots.
+- ✨ Seeking Full-time SDE / AI Engineer roles starting May 2026.
 
 ---
 
 ### 💼 Tech Stack
 
-#### ⚙️ Programming & Data
+#### ⚙️ AI & Data Science
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain)
 
-#### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+#### 🌐 Backend & Systems
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
 ### 📌 Featured Projects
 
-- ✈️ [Flight Fare Prediction](https://github.com/Ashwin-premani/Flight-Fare-Prediction)  
-  `Regression | sklearn | Python` – Trained models to predict airline ticket prices with high accuracy
+- 🤖 **[GMeetBot](https://github.com/Ashwin-premani/GMeetBot)** `LLMs | Python | GitHub API` – An autonomous AI agent that joins Google Meets, transcribes discussions, extracts requirements, and automatically generates/pushes code changes via Pull Requests.
 
-- 🧬 [Heathpredict-AI](https://github.com/Ashwin-premani/Heathpredict-AI)  
-  `ML Models | Flask | Healthcare` – Predicts diseases like heart disease, diabetes, and pneumonia
+- 🌳 **[StudyTree](https://github.com/Ashwin-premani/StudyTree)** `FastAPI | React | OpenAI` – An AI-powered e-learning ecosystem that processes video lectures to generate structured transcripts, summaries, and interactive quizzes.
 
-- 🏠 [Real Estate Website with ML Integration](https://github.com/Ashwin-premani/rubix25_71_backlog)
-  `React | Node.js | Python | MongoDB` – Full-stack app with ML models to estimate home prices and suggest listings
+- 📈 **[HFT Arbitrage Bot](https://github.com/Ashwin-premani/HFT-Arbitrage-Bot)** `C++ | Python | Machine Learning` – A low-latency trading system designed to exploit price discrepancies across exchanges using real-time data processing.
 
-- 🤖 [ML Models Hub](https://github.com/Ashwin-premani/Machine-Learning-Models)  
-  `Python | sklearn | Projects` – Central repo containing various ML models like diabetes prediction, password strength estimator, and more
-
-> 👉 *More in my pinned repositories!*
+- 📊 **[Life Tracker](https://github.com/Ashwin-premani/Life-Tracker)** `Streamlit | Notion API | Python` – A personal analytics dashboard that visualizes daily productivity, coding metrics, and fitness data extracted from natural language logs.
 
 ---
 
 ### 📊 GitHub Stats
 
-
-![Snake animation](https://raw.githubusercontent.com/Ashwin-premani/Ashwin-premani/output/snake.svg)
-
-
-
 <div align="center">
-
-![Ashwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashwin-premani&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-premani&layout=compact&theme=radical&hide_border=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ashwin-premani&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ashwin-premani&theme=radical&row=1&margin-w=5)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashwin-premani&show_icons=true&theme=radical&count_private=true" alt="Ashwin's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-premani&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 
 ---
 
-### 📚 Currently Learning
-
-- 🤖 Advanced Deep Learning (CNNs, RNNs, Transformers)
-- ☁️ ML on Cloud (AWS SageMaker, GCP Vertex AI)
-- 🧠 Building full-stack AI SaaS tools
-
----
-
 ### 📈 What's Next?
-
-- 📄 Publishing AI research paper on optimization techniques
-- 🧑‍💻 Launching an AI-powered political report card platform
-- 🔍 Seeking **Data Science / AI Internships & SDE roles**
+- 📄 Publishing research on **Dynamic Blockage Prediction in 6G** using deep learning.
+- 🦀 Mastering **Rust** for high-performance backend tooling.
+- ⚖️ Developing an **AI Political Report Card** platform for civic transparency.
 
 ---
 
 ### 📬 Let's Connect
-
 <p align="center">
   <a href="mailto:ashwinpremani1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/ashwinpremani"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Ashwin-premani"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
----
